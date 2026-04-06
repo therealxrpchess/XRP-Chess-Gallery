@@ -61,7 +61,7 @@ XRP Chess connects to:
 ## Contact
 
 For questions about this privacy policy or data deletion requests, contact:
-- Discord: Noble Apprentice (nobleapprentice)
+- Discord: Noble Apprentice (nobleapprentice.)
 - Server: https://discord.gg/vwA33NRBNp
 - Twitter/X: https://x.com/XRPCHESS
 
