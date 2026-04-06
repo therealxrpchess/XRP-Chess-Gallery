@@ -48,6 +48,6 @@ These terms may be updated from time to time. Continued use of the bot constitut
 
 ## Contact
 
-- Discord: Noble Apprentice (nobleapprentice)
+- Discord: Noble Apprentice (nobleapprentice.)
 - Server: https://discord.gg/vwA33NRBNp
 - Twitter/X: https://x.com/XRPCHESS
